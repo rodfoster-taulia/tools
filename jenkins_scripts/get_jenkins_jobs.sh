@@ -4,7 +4,7 @@
 ENV="staging"
 JENKINS_URL="https://jenkins.${ENV}.taulia.com"
 USERNAME="rod.foster"
-API_TOKEN="114375ddeb021e7602dee2f18604c0dfea"
+API_TOKEN=""
 
 # API endpoint to get list of jobs
 API_ENDPOINT="${JENKINS_URL}/api/json"
